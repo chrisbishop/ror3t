@@ -7,3 +7,6 @@ by [Michael Hartl](http;//michaelhartl.com/).
 
 2011-02-22 Chris Bishop
 Updated README to test local/remote sync.
+
+2011-03-03 Chris Bishop
+Moved development environment to local machine.
